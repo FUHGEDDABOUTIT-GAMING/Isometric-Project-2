@@ -1,0 +1,2209 @@
+fileFormatVersion: 2
+guid: 0d8207db8d99246a5873da92c2641dd0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Mega Man Battle Network 4 - Lan_0
+    21300002: Game Boy Advance - Mega Man Battle Network 4 - Lan_1
+    21300004: Game Boy Advance - Mega Man Battle Network 4 - Lan_2
+    21300006: Game Boy Advance - Mega Man Battle Network 4 - Lan_3
+    21300008: Game Boy Advance - Mega Man Battle Network 4 - Lan_4
+    21300010: Game Boy Advance - Mega Man Battle Network 4 - Lan_5
+    21300012: Game Boy Advance - Mega Man Battle Network 4 - Lan_6
+    21300014: Game Boy Advance - Mega Man Battle Network 4 - Lan_7
+    21300016: Game Boy Advance - Mega Man Battle Network 4 - Lan_8
+    21300018: Game Boy Advance - Mega Man Battle Network 4 - Lan_9
+    21300020: Game Boy Advance - Mega Man Battle Network 4 - Lan_10
+    21300022: Game Boy Advance - Mega Man Battle Network 4 - Lan_11
+    21300024: Game Boy Advance - Mega Man Battle Network 4 - Lan_12
+    21300026: Game Boy Advance - Mega Man Battle Network 4 - Lan_13
+    21300028: Game Boy Advance - Mega Man Battle Network 4 - Lan_14
+    21300030: Game Boy Advance - Mega Man Battle Network 4 - Lan_15
+    21300032: Game Boy Advance - Mega Man Battle Network 4 - Lan_16
+    21300034: Game Boy Advance - Mega Man Battle Network 4 - Lan_17
+    21300036: Game Boy Advance - Mega Man Battle Network 4 - Lan_18
+    21300038: Game Boy Advance - Mega Man Battle Network 4 - Lan_19
+    21300040: Game Boy Advance - Mega Man Battle Network 4 - Lan_20
+    21300042: Game Boy Advance - Mega Man Battle Network 4 - Lan_21
+    21300044: Game Boy Advance - Mega Man Battle Network 4 - Lan_22
+    21300046: Game Boy Advance - Mega Man Battle Network 4 - Lan_23
+    21300048: Game Boy Advance - Mega Man Battle Network 4 - Lan_24
+    21300050: Game Boy Advance - Mega Man Battle Network 4 - Lan_25
+    21300052: Game Boy Advance - Mega Man Battle Network 4 - Lan_26
+    21300054: Game Boy Advance - Mega Man Battle Network 4 - Lan_27
+    21300056: Game Boy Advance - Mega Man Battle Network 4 - Lan_28
+    21300058: Game Boy Advance - Mega Man Battle Network 4 - Lan_29
+    21300060: Game Boy Advance - Mega Man Battle Network 4 - Lan_30
+    21300062: Game Boy Advance - Mega Man Battle Network 4 - Lan_31
+    21300064: Game Boy Advance - Mega Man Battle Network 4 - Lan_32
+    21300066: Game Boy Advance - Mega Man Battle Network 4 - Lan_33
+    21300068: Game Boy Advance - Mega Man Battle Network 4 - Lan_34
+    21300070: Game Boy Advance - Mega Man Battle Network 4 - Lan_35
+    21300072: Game Boy Advance - Mega Man Battle Network 4 - Lan_36
+    21300074: Game Boy Advance - Mega Man Battle Network 4 - Lan_37
+    21300076: Game Boy Advance - Mega Man Battle Network 4 - Lan_38
+    21300078: Game Boy Advance - Mega Man Battle Network 4 - Lan_39
+    21300080: Game Boy Advance - Mega Man Battle Network 4 - Lan_40
+    21300082: Game Boy Advance - Mega Man Battle Network 4 - Lan_41
+    21300084: Game Boy Advance - Mega Man Battle Network 4 - Lan_42
+    21300086: Game Boy Advance - Mega Man Battle Network 4 - Lan_43
+    21300088: Game Boy Advance - Mega Man Battle Network 4 - Lan_44
+    21300090: Game Boy Advance - Mega Man Battle Network 4 - Lan_45
+    21300092: Game Boy Advance - Mega Man Battle Network 4 - Lan_46
+    21300094: Game Boy Advance - Mega Man Battle Network 4 - Lan_47
+    21300096: Game Boy Advance - Mega Man Battle Network 4 - Lan_48
+    21300098: Game Boy Advance - Mega Man Battle Network 4 - Lan_49
+    21300100: Game Boy Advance - Mega Man Battle Network 4 - Lan_50
+    21300102: Game Boy Advance - Mega Man Battle Network 4 - Lan_51
+    21300104: Game Boy Advance - Mega Man Battle Network 4 - Lan_52
+    21300106: Game Boy Advance - Mega Man Battle Network 4 - Lan_53
+    21300108: Game Boy Advance - Mega Man Battle Network 4 - Lan_54
+    21300110: Game Boy Advance - Mega Man Battle Network 4 - Lan_55
+    21300112: Game Boy Advance - Mega Man Battle Network 4 - Lan_56
+    21300114: Game Boy Advance - Mega Man Battle Network 4 - Lan_57
+    21300116: Game Boy Advance - Mega Man Battle Network 4 - Lan_58
+    21300118: Game Boy Advance - Mega Man Battle Network 4 - Lan_59
+    21300120: Game Boy Advance - Mega Man Battle Network 4 - Lan_60
+    21300122: Game Boy Advance - Mega Man Battle Network 4 - Lan_61
+    21300124: Game Boy Advance - Mega Man Battle Network 4 - Lan_62
+    21300126: Game Boy Advance - Mega Man Battle Network 4 - Lan_63
+    21300128: Game Boy Advance - Mega Man Battle Network 4 - Lan_64
+    21300130: Game Boy Advance - Mega Man Battle Network 4 - Lan_65
+    21300132: Game Boy Advance - Mega Man Battle Network 4 - Lan_66
+    21300134: Game Boy Advance - Mega Man Battle Network 4 - Lan_67
+    21300136: Game Boy Advance - Mega Man Battle Network 4 - Lan_68
+    21300138: Game Boy Advance - Mega Man Battle Network 4 - Lan_69
+    21300140: Game Boy Advance - Mega Man Battle Network 4 - Lan_70
+    21300142: Game Boy Advance - Mega Man Battle Network 4 - Lan_71
+    21300144: Game Boy Advance - Mega Man Battle Network 4 - Lan_72
+    21300146: Game Boy Advance - Mega Man Battle Network 4 - Lan_73
+    21300148: Game Boy Advance - Mega Man Battle Network 4 - Lan_74
+    21300150: Game Boy Advance - Mega Man Battle Network 4 - Lan_75
+    21300152: Game Boy Advance - Mega Man Battle Network 4 - Lan_76
+    21300154: Game Boy Advance - Mega Man Battle Network 4 - Lan_77
+    21300156: Game Boy Advance - Mega Man Battle Network 4 - Lan_78
+    21300158: Game Boy Advance - Mega Man Battle Network 4 - Lan_79
+    21300160: Game Boy Advance - Mega Man Battle Network 4 - Lan_80
+    21300162: Game Boy Advance - Mega Man Battle Network 4 - Lan_81
+    21300164: Game Boy Advance - Mega Man Battle Network 4 - Lan_82
+    21300166: Game Boy Advance - Mega Man Battle Network 4 - Lan_83
+    21300168: Game Boy Advance - Mega Man Battle Network 4 - Lan_84
+    21300170: Game Boy Advance - Mega Man Battle Network 4 - Lan_85
+    21300172: Game Boy Advance - Mega Man Battle Network 4 - Lan_86
+    21300174: Game Boy Advance - Mega Man Battle Network 4 - Lan_87
+    21300176: Game Boy Advance - Mega Man Battle Network 4 - Lan_88
+    21300178: Game Boy Advance - Mega Man Battle Network 4 - Lan_89
+    21300180: Game Boy Advance - Mega Man Battle Network 4 - Lan_90
+    21300182: Game Boy Advance - Mega Man Battle Network 4 - Lan_91
+    21300184: Game Boy Advance - Mega Man Battle Network 4 - Lan_92
+    21300186: Game Boy Advance - Mega Man Battle Network 4 - Lan_93
+    21300188: Game Boy Advance - Mega Man Battle Network 4 - Lan_94
+    21300190: Game Boy Advance - Mega Man Battle Network 4 - Lan_95
+    21300192: Game Boy Advance - Mega Man Battle Network 4 - Lan_96
+    21300194: Game Boy Advance - Mega Man Battle Network 4 - Lan_97
+    21300196: Game Boy Advance - Mega Man Battle Network 4 - Lan_98
+    21300198: Game Boy Advance - Mega Man Battle Network 4 - Lan_99
+    21300200: Game Boy Advance - Mega Man Battle Network 4 - Lan_100
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 378
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18418e1fc63a4020a617b5152b57d3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a77920ea454ad4bbbb248a5652667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 378
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcded289599a466cade6990c2800169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 378
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad87bd140b5d47fea0cc66f93c5480a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 378
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615cb74d5aeaf40efb4d7c788f6b070d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 378
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25424498fd74486a88cf58e0e9b6ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 378
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e5733a57dc4fa694d975ad62227d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 341
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73de0bec7e034c27acf691122dd4b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 347
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42fa22f8bcc450d8c8a7706032b479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 350
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad004732683814e24a357dff521e47f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afff977ee1bc44bdb51a858346f291f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 355
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d4ac3ba050e4ee9900576cf66a05d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 356
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33024b2d7a446de8351b819fd5921a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 339
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e85ec40b048c418f86ce0637e7d59c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 339
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef12b085fbb47599b87a5c265dfecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 339
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e18cf56df0444448b8f867a3fe1f15c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 339
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702f24a7fd4bd44e49c52ca5a3123d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 339
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314b227a77e04d2ca67e568a583f8b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 339
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611632064ef548eba100c7ee2816657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 339
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea211c2c9a741cea3d10f6e2ce109e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 341
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac7fa698eb74169a59e2e594b8c1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 341
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd419a586644546bde1d5849ddbc44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 341
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1505f96b2614cec901b43609a71716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 341
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a762b3a4da374787a4df9b8bf86c7fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 341
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d8ee90a40194d7198f643e53a0a430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 341
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3153ab3588407db228079b4296baa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 341
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e406c57888df46d697c6cecb2cd85a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 341
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8865bfe4484135af3a2aa02da7f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 341
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c504eeb17ca45c39af54cd5b0a477c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 341
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17616f8c6cab343bb988e505dda6512a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 301
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad31b55b8404996b7a4b0c08542cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 301
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050fc41dd17943c1b5aaa2d5ac21d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 301
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6afb0928f6468cb3ff481ef316cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 301
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2201f346ca4bc5af57d30a289bbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 301
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34784896bfac4a4a929e300733b67b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 301
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c59cdcf201142f1ae821f29433a7f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 301
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0015a4aee14538a574e1e3595f972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 253
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9bef77eec84404a41994a4a2acbc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 309
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb06a0436f5f49a0978da37d024be07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 262
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b0ec92c1d14144841dd2a9186a68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 262
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248c1a2ba39a48f9823bc4a11c20bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 262
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575d01a4d8c224f9cb78b7f4c12fc9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 262
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67269a0d6ec24454c9334f949728f2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 262
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8d05ef9a38a4494af4a88901c70276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 262
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9d6debdcb3e4791a194a51b67438e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 262
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a021c651543a4b839206ccd15e3a59b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 260
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ee7dd199d545178f7000654fd7b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 248
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a5d13e43a94fddb900e8ddfc84939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 226
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84a0d42bee64309a71a6b678716ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 245
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b9d09542e8a4b71a9afb0568dc0550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9177fcceeb094a8d8970d1b65970197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc622fa8d87a4f8fb9fde9b71ca6b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 223
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c56cb579fd804e7ea75590d43b39b5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 223
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c394d8f6c3b46889b5a54acf5a792a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d6946b8f28847a3bdb437b2174b536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 223
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bcdc8dab2914802bc6131ce29f333e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_56
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 223
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ecc034a9698440698701e0b2cd4db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 245
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a73fa85fc5407387ad729c5f15eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 245
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf562785cd84dee9a1cfcad9ba2904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 231
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54437d838e5334c179103d99eea205f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e92851a5d5849bba1a52d0ce49ca67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 185
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4bb8a2b14b4435a49e494953382de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_62
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f56fac573c4d449021b30a642a760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 185
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b0617472886455183dece8672b5acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 185
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6142f3885609b4942bd2a24d1f92b488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_65
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 185
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091b82b66e56450ca7ef97a06e5cb4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 185
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a050fba4b544fbfb761872593037ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_67
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 161
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae4aef618774b32b23ac9e73039766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d0344f69dbe4eff9bba9d8022c1c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 210
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a69bc13b434b7a9f6759fb261a8b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_70
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 190
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e75eec7c9a445b8abbbefa1073e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 194
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d868cecf5b4054a25afc88b8da4b57e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 183
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd1a5c8e6d1d4eb2ac920149144ae3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 148
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5e0c78930a4c4e88cb7aa61cd86bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_74
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 148
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8449b827bca9417d9f74d6cb4a81077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 148
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a46f4db4cf6f4f6ebbf6ae18a903711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_76
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1f8c1adb8284c4b9fcfb3323fda2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_77
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 148
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a52b2639ce5406c923dc4a352d1e75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 148
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d16883d57940229578f269ef8f74f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c1d69c665f4927a710d51b0c112e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 163
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9282ac8f7bba441ab7e6f6e953ecc5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 140
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3461b3679df5d486783939b9c1d27780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 154
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8e272852ac41ac86f70ebd1a9dfb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d7675b1af14d7f957843ba41cad74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 146
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c8849c989b4b16b962e79541a3a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 139
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc81514ed6d44f39c550ccc0616d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb4ec9bd4064eb19e26437aa3208c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c9d86b01b042a282a4af399ce5761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 111
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66dfa1d2b414f64ac4d8749297da2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 111
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02517bb4e0664c7697ffe52d72bdfd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dc6e76305334f89bb417c80d2e67a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 111
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a25d27c0bc84f4a98583ef7d845b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 111
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac8794764f594c4f8aaa033234564e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07727d57f42473093dca5e014c5737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 51
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a35b18ab65541018be18f3a3c53eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 51
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d1c5b020c04ff994a9aaaf98d703b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_96
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83cdf5da6bb420e88dce06bd2cb60a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 13
+        width: 181
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646fc3c4d5584a49af84e1cdacaf9db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_98
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 16
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45bcd77738064746a063c16d4cb6c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_99
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a163a097da4554bef127f5623b824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Battle Network 4 - Lan_100
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d13670818547488d8730a7a749fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0748017e955b54901899ffbd28b2c664
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

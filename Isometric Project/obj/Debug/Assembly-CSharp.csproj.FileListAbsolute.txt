@@ -1,0 +1,2 @@
+/Users/polo/Documents/Unity_projects/Isometric Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/polo/Documents/Unity_projects/Isometric Project/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
